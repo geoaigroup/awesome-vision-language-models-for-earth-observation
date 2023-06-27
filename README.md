@@ -1,4 +1,4 @@
-# awesome-EO-VLM: awesome-earth-observation-vision-language-models  
+# awesome-VLM4EO: awesome-vision-language-models-for-earth-observation  
 A curated list of awesome visual language model papers and resources for remote sensing.
 
 **Table Of Contents**
