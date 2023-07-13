@@ -46,9 +46,18 @@ A curated list of awesome visual language model papers and resources for remote 
 | Text2Seg: Remote Sensing Image Semantic Segmentation via Text-Guided Visual Foundation Models | [paper](https://arxiv.org/abs/2304.10597) | [code](https://github.com/Douglas2Code/Text2Seg) | 2023    | 
 | RSVG: Exploring Data and Models for Visual Grounding on Remote Sensing Data| [paper](https://arxiv.org/abs/2210.12634) | [code](https://github.com/ZhanYang-nwpu/RSVG-pytorch) | 2022|
 
-
-
-
+## Visual Question Answering
+| Title                                                            | Paper                                                         | Code                                  | Year | Venue               |
+| ----------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- | ---- | ------------------- |
+| A Spatial Hierarchical Reasoning Network for Remote Sensing Visual Question Answering | [paper](https://ieeexplore.ieee.org/document/10018408) | | 2023 | IEEE |
+| Prompt-RSVQA: Prompting visual context to a language model for Remote Sensing Visual Question Answering | [paper](https://ieeexplore.ieee.org/document/9857471) | 2022 |
+| From Easy to Hard: Learning Language-guided Curriculum for Visual Question Answering on Remote Sensing Data | [paper](https://arxiv.org/abs/2205.03147)| [code](https://github.com/YZHJessica/VQA-easy2hard) | 2022 | |
+| Language Transformers for Remote Sensing Visual Question Answering | [paper](https://ieeexplore.ieee.org/document/9884036) | | 2022 | IGARSS |
+| Bi-Modal Transformer-Based Approach for Visual Question Answering in Remote Sensing Imagery | [paper](https://ieeexplore.ieee.org/document/9832935) | | 2022 | IEEE | 
+| Mutual Attention Inception Network for Remote Sensing Visual Question Answering | [paper](https://ieeexplore.ieee.org/document/9444570) | [code](https://github.com/spectralpublic/RSIVQA) | 2022 | IEEE |
+| RSVQA meets BigEarthNet: a new, large-scale, visual question answering dataset for remote sensing | [paper](https://ieeexplore.ieee.org/document/9553307) | [code](https://rsvqa.sylvainlobry.com/) | 2021 | IGARSS |
+| RSVQA: Visual Question Answering for Remote Sensing Data | [paper](https://arxiv.org/abs/2003.07333) | [code](https://rsvqa.sylvainlobry.com/) | 2020 | IEEE |
+| How to find a good image-text embedding for remote sensing visual question answering? | [paper](https://arxiv.org/abs/2109.11848) | | | |
 
 
 
