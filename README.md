@@ -5,6 +5,7 @@ A curated list of awesome visual language model papers and resources for remote 
 * [Image Captioning](#image-captioning)
 * [Text-Image Retrieval](#text-image-retrieval)
 * [Visual Grounding](#visual-grounding)
+* [Visual Question Answering](#visual-question-answering)
 
 ## Image Captioning
 | Title                                                                        | Paper    | Code                                  |
