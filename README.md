@@ -48,7 +48,7 @@ A curated list of awesome visual language model papers and resources for remote 
 | Title | Paper | Code | Year | Venue |
 | ----------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- | ---- | ------------------- |
 | Text2Seg: Remote Sensing Image Semantic Segmentation via Text-Guided Visual Foundation Models | [paper](https://arxiv.org/abs/2304.10597) | [code](https://github.com/Douglas2Code/Text2Seg) | 2023    | 
-| RSVG: Exploring Data and Models for Visual Grounding on Remote Sensing Data| [paper](https://arxiv.org/abs/2210.12634) | [code](https://github.com/ZhanYang-nwpu/RSVG-pytorch) | IEEE TGRS | 2022|
+| RSVG: Exploring Data and Models for Visual Grounding on Remote Sensing Data| [paper](https://arxiv.org/abs/2210.12634) | [code](https://github.com/ZhanYang-nwpu/RSVG-pytorch) |  2022| IEEE TGRS | 
 
 ## Visual Question Answering
 | Title | Paper | Code | Year | Venue |
@@ -60,8 +60,8 @@ A curated list of awesome visual language model papers and resources for remote 
 | Bi-Modal Transformer-Based Approach for Visual Question Answering in Remote Sensing Imagery | [paper](https://ieeexplore.ieee.org/document/9832935) | | 2022 | IEEE TGRS | 
 | Mutual Attention Inception Network for Remote Sensing Visual Question Answering | [paper](https://ieeexplore.ieee.org/document/9444570) | [code](https://github.com/spectralpublic/RSIVQA) | 2022 | IEEE TGRS |
 | RSVQA meets BigEarthNet: a new, large-scale, visual question answering dataset for remote sensing | [paper](https://ieeexplore.ieee.org/document/9553307) | [code](https://rsvqa.sylvainlobry.com/) | 2021 | IEEE IGARSS |
-| RSVQA: Visual Question Answering for Remote Sensing Data | [paper](https://arxiv.org/abs/2003.07333) | [code](https://rsvqa.sylvainlobry.com/) | 2020 | IEEE |
-| How to find a good image-text embedding for remote sensing visual question answering? | [paper](https://arxiv.org/abs/2109.11848) | | | |
+| RSVQA: Visual Question Answering for Remote Sensing Data | [paper](https://arxiv.org/abs/2003.07333) | [code](https://ieeexplore.ieee.org/abstract/document/9088993) | 2020 | IEEE TGRS |
+| How to find a good image-text embedding for remote sensing visual question answering? | [paper](https://arxiv.org/abs/2109.11848) | | 2021 | CEUR Workshop Proceedings |
 
 
 
