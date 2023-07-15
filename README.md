@@ -8,28 +8,31 @@ A curated list of awesome visual language model papers and resources for remote 
 * [Visual Question Answering](#visual-question-answering)
 
 ## Image Captioning
-| Title                                                                        | Paper    | Code                                  |
-| ------------------------------------------- | ----------------------------------------- | ------------------------------------------- |
-| Multi-Source Interactive Stair Attention for Remote Sensing Image Captioning | [paper](https://www.mdpi.com/2072-4292/15/3/579) | []()|
-| VLCA: vision-language aligning model with cross-modal attention for bilingual remote sensing image captioning | [paper](https://ieeexplore.ieee.org/document/10066217) | []()|
-| Towards Unsupervised Remote Sensing Image Captioning and Retrieval with Pre-Trained Language Models | [paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B10-4.pdf) | []()|
-| A Mask-Guided Transformer Network with Topic Token for Remote Sensing Image Captioning | [paper](https://www.mdpi.com/2072-4292/14/12/2939) | []()|
-| Multiscale Multiinteraction Network for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9720234) | []()|
-| Using Neural Encoder-Decoder Models with Continuous Outputs for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9714367) | []()|
-| A Joint-Training Two-Stage Method for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9961235) | []()|
-| Remote sensing image captioning via Variational Autoencoder and Reinforcement Learning | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120302586) | []()|
-| Meta captioning: A meta learning based remote sensing image captioning framework | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271622000351) | []()|
-| Captioning Remote Sensing Images Using Transformer Architecture | [paper](https://ieeexplore.ieee.org/abstract/document/10067039) | []()|
-| Exploring Transformer and Multilabel Classification for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9855519) | []()|
-| A multi-level attention model for remote sensing image captions | [paper](https://www.mdpi.com/2072-4292/12/6/939) | []()|
-| LAM: Remote sensing image captioning with Label-Attention Mechanism | [paper](https://www.mdpi.com/2072-4292/11/20/2349) | []()|
-| Exploring Models and Data for Remote Sensing Image Caption Generation | [paper](https://arxiv.org/abs/1712.07835) | []()|
-| Truncation Cross Entropy Loss for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9153154) | []()|
+| Title | Paper | Code | Year | Venue |
+| ----------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- | ---- | ------------------- |
+| Multi-Source Interactive Stair Attention for Remote Sensing Image Captioning | [paper](https://www.mdpi.com/2072-4292/15/3/579) | | 2023 | Remote Sensing []()|
+| VLCA: vision-language aligning model with cross-modal attention for bilingual remote sensing image captioning | [paper](https://ieeexplore.ieee.org/document/10066217) | | 2023 | Journal of Systems Engineering and Electronics |[]()|
+| Towards Unsupervised Remote Sensing Image Captioning and Retrieval with Pre-Trained Language Models | [paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B10-4.pdf) | | 2023 | []()|
+| Captioning Remote Sensing Images Using Transformer Architecture | [paper](https://ieeexplore.ieee.org/document/10067039/) | | 2023 | ICAIIC |
+| A Mask-Guided Transformer Network with Topic Token for Remote Sensing Image Captioning | [paper](https://www.mdpi.com/2072-4292/14/12/2939) | | 2022 | Remote Sensing []()|
+| Multiscale Multiinteraction Network for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9720234) | | 2022  | IEEE[]()|
+| Using Neural Encoder-Decoder Models with Continuous Outputs for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9714367) | | 2022 | IEEE[]()|
+| A Joint-Training Two-Stage Method for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9961235) | | 2022 | IEEE []()|
+| Meta captioning: A meta learning based remote sensing image captioning framework | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271622000351) | [code](https://github.com/QiaoqiaoYang/MetaCaptioning.) | 2022 | ISPRS []()|
+| Exploring Transformer and Multilabel Classification for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9855519) | [code](https://gitlab.lrz.de/ai4eo/captioningMultilabel.) | 2022 | IEEE []()|
+| High-Resolution Remote Sensing Image Captioning Based on Structured Attention | [paper](https://ieeexplore.ieee.org/document/9400386) | | 2022 | IEEE |
+| Truncation Cross Entropy Loss for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9153154) | | 2021 | IEEE[]()|
+| Word-Sentence Framework for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9308980/?denied=) | | 2021 | IEEE |
+| Remote sensing image captioning via Variational Autoencoder and Reinforcement Learning | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120302586) | | 2020 | Knowledge-Based Systems []()|
+| A multi-level attention model for remote sensing image captions | [paper](https://www.mdpi.com/2072-4292/12/6/939) | | 2020 | Remote Sensing []()|
+| LAM: Remote sensing image captioning with Label-Attention Mechanism | [paper](https://www.mdpi.com/2072-4292/11/20/2349) | | 2019 | Remote Sensing []()|
+| Exploring Models and Data for Remote Sensing Image Caption Generation | [paper](https://arxiv.org/abs/1712.07835) | | 2017 |  []()|
+
 
 
 ## Text-Image Retrieval
 
-| Title                                                            | Paper                                                         | Code                                  | Year | Venue               |
+| Title | Paper | Code | Year | Venue |
 | ----------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- | ---- | ------------------- |
 | An End-to-End Framework Based on Vision-Language Fusion for Remote Sensing Cross-Modal Text-Image Retrieval | [paper](https://www.mdpi.com/2227-7390/11/10/2279) |  | 2023 | Mathematics |
 | Contrasting Dual Transformer Architectures for Multi-Modal Remote Sensing Image Retrieval | [paper](https://www.mdpi.com/2076-3417/13/1/282) | | 2023 | Applied Sciences|
@@ -42,13 +45,13 @@ A curated list of awesome visual language model papers and resources for remote 
 | Deep unsupervised embedding for remote sensing image retrieval using textual cues | [paper](https://www.mdpi.com/2076-3417/10/24/8931) |  | 2020 | Applied Sciences |
 
 ## Visual Grounding
-| Title                                                            | Paper                                                         | Code                                  | Year | Venue               |
+| Title | Paper | Code | Year | Venue |
 | ----------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- | ---- | ------------------- |
 | Text2Seg: Remote Sensing Image Semantic Segmentation via Text-Guided Visual Foundation Models | [paper](https://arxiv.org/abs/2304.10597) | [code](https://github.com/Douglas2Code/Text2Seg) | 2023    | 
 | RSVG: Exploring Data and Models for Visual Grounding on Remote Sensing Data| [paper](https://arxiv.org/abs/2210.12634) | [code](https://github.com/ZhanYang-nwpu/RSVG-pytorch) | 2022|
 
 ## Visual Question Answering
-| Title                                                            | Paper                                                         | Code                                  | Year | Venue               |
+| Title | Paper | Code | Year | Venue |
 | ----------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- | ---- | ------------------- |
 | A Spatial Hierarchical Reasoning Network for Remote Sensing Visual Question Answering | [paper](https://ieeexplore.ieee.org/document/10018408) | | 2023 | IEEE |
 | Prompt-RSVQA: Prompting visual context to a language model for Remote Sensing Visual Question Answering | [paper](https://ieeexplore.ieee.org/document/9857471) | | 2022 |
