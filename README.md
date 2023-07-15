@@ -12,7 +12,7 @@ A curated list of awesome visual language model papers and resources for remote 
 | ----------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- | ---- | ------------------- |
 | Multi-Source Interactive Stair Attention for Remote Sensing Image Captioning | [paper](https://www.mdpi.com/2072-4292/15/3/579) | | 2023 | MDPI Remote Sensing []()|
 | VLCA: vision-language aligning model with cross-modal attention for bilingual remote sensing image captioning | [paper](https://ieeexplore.ieee.org/document/10066217) | | 2023 | IEEE Journal of Systems Engineering and Electronics |[]()|
-| Towards Unsupervised Remote Sensing Image Captioning and Retrieval with Pre-Trained Language Models | [paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B10-4.pdf) | | 2023 | Processingsof the Japanese Association for Natural Language Processing |[]()|
+| Towards Unsupervised Remote Sensing Image Captioning and Retrieval with Pre-Trained Language Models | [paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B10-4.pdf) | | 2023 | Proceedings of the Japanese Association for Natural Language Processing |[]()|
 | Captioning Remote Sensing Images Using Transformer Architecture | [paper](https://ieeexplore.ieee.org/document/10067039/) | | 2023 | International Conference on Artificial Intelligence in Information and Communication |
 | A Mask-Guided Transformer Network with Topic Token for Remote Sensing Image Captioning | [paper](https://www.mdpi.com/2072-4292/14/12/2939) | | 2022 | MDPI Remote Sensing []()|
 | Multiscale Multiinteraction Network for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9720234) | | 2022  | IEEE JSTARS []()|
@@ -26,7 +26,7 @@ A curated list of awesome visual language model papers and resources for remote 
 | Remote sensing image captioning via Variational Autoencoder and Reinforcement Learning | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120302586) | | 2020 | Elservier Knowledge-Based Systems []()|
 | A multi-level attention model for remote sensing image captions | [paper](https://www.mdpi.com/2072-4292/12/6/939) | | 2020 | MDPI Remote Sensing []()|
 | LAM: Remote sensing image captioning with Label-Attention Mechanism | [paper](https://www.mdpi.com/2072-4292/11/20/2349) | | 2019 | MDPI Remote Sensing []()|
-| Exploring Models and Data for Remote Sensing Image Caption Generation | [paper](https://arxiv.org/abs/1712.07835) | | 2017 | IEEE TGRS []()|
+| Exploring Models and Data for Remote Sensing Image Caption Generation | [paper](https://ieeexplore.ieee.org/document/8240966) | | 2017 | IEEE TGRS []()|
 
 
 
@@ -34,15 +34,15 @@ A curated list of awesome visual language model papers and resources for remote 
 
 | Title | Paper | Code | Year | Venue |
 | ----------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- | ---- | ------------------- |
-| An End-to-End Framework Based on Vision-Language Fusion for Remote Sensing Cross-Modal Text-Image Retrieval | [paper](https://www.mdpi.com/2227-7390/11/10/2279) |  | 2023 | Mathematics |
-| Contrasting Dual Transformer Architectures for Multi-Modal Remote Sensing Image Retrieval | [paper](https://www.mdpi.com/2076-3417/13/1/282) | | 2023 | Applied Sciences|
-| Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval | [paper](https://arxiv.org/pdf/2204.09868.pdf) | | 2022 | IEEE |
-| Remote Sensing Cross-Modal Text-Image Retrieval Based on Global and Local Information | [paper](https://arxiv.org/abs/2204.09860) | [code](https://github.com/xiaoyuan1996/GaLR) | 2022 | IEEE |
-| Multilanguage Transformer for Improved Text to Remote Sensing Image Retrieval | [paper](https://ieeexplore.ieee.org/document/9925582) | | 2022 | IEEE |
-| A Lightweight Multi-Scale Crossmodal Text-Image Retrieval Method in Remote Sensing | [paper](https://ieeexplore.ieee.org/document/9594840) | [code](https://github.com/xiaoyuan1996/retrievalSystem) | 2022 | IEEE |
-| Toward Remote Sensing Image Retrieval under a Deep Image Captioning Perspective | [paper](https://ieeexplore.ieee.org/document/9154525)  |  | 2020 | IEEE |
-| TextRS: Deep bidirectional triplet network for matching text to remote sensing images | [paper](https://www.mdpi.com/2072-4292/12/3/405) |  | 2020 | Remote Sensing |
-| Deep unsupervised embedding for remote sensing image retrieval using textual cues | [paper](https://www.mdpi.com/2076-3417/10/24/8931) |  | 2020 | Applied Sciences |
+| An End-to-End Framework Based on Vision-Language Fusion for Remote Sensing Cross-Modal Text-Image Retrieval | [paper](https://www.mdpi.com/2227-7390/11/10/2279) |  | 2023 | MDPI Mathematics |
+| Contrasting Dual Transformer Architectures for Multi-Modal Remote Sensing Image Retrieval | [paper](https://www.mdpi.com/2076-3417/13/1/282) | | 2023 | MDPI Applied Sciences|
+| Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval | [paper](https://ieeexplore.ieee.org/document/9437331) | | 2022 | IEEE TGRS |
+| Remote Sensing Cross-Modal Text-Image Retrieval Based on Global and Local Information | [paper](https://ieeexplore.ieee.org/document/9745546) | [code](https://github.com/xiaoyuan1996/GaLR) | 2022 | IEEE TGRS |
+| Multilanguage Transformer for Improved Text to Remote Sensing Image Retrieval | [paper](https://ieeexplore.ieee.org/document/9925582) | | 2022 | IEEE JSTARS |
+| A Lightweight Multi-Scale Crossmodal Text-Image Retrieval Method in Remote Sensing | [paper](https://ieeexplore.ieee.org/document/9594840) | [code](https://github.com/xiaoyuan1996/retrievalSystem) | 2022 | IEEE TGRS |
+| Toward Remote Sensing Image Retrieval under a Deep Image Captioning Perspective | [paper](https://ieeexplore.ieee.org/document/9154525)  |  | 2020 | IEEE JSTARS|
+| TextRS: Deep bidirectional triplet network for matching text to remote sensing images | [paper](https://www.mdpi.com/2072-4292/12/3/405) |  | 2020 | MDPI Remote Sensing |
+| Deep unsupervised embedding for remote sensing image retrieval using textual cues | [paper](https://www.mdpi.com/2076-3417/10/24/8931) |  | 2020 | MDPI Applied Sciences |
 
 ## Visual Grounding
 | Title | Paper | Code | Year | Venue |
