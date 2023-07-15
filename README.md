@@ -51,7 +51,7 @@ A curated list of awesome visual language model papers and resources for remote 
 | Title                                                            | Paper                                                         | Code                                  | Year | Venue               |
 | ----------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- | ---- | ------------------- |
 | A Spatial Hierarchical Reasoning Network for Remote Sensing Visual Question Answering | [paper](https://ieeexplore.ieee.org/document/10018408) | | 2023 | IEEE |
-| Prompt-RSVQA: Prompting visual context to a language model for Remote Sensing Visual Question Answering | [paper](https://ieeexplore.ieee.org/document/9857471) | 2022 |
+| Prompt-RSVQA: Prompting visual context to a language model for Remote Sensing Visual Question Answering | [paper](https://ieeexplore.ieee.org/document/9857471) | | 2022 |
 | From Easy to Hard: Learning Language-guided Curriculum for Visual Question Answering on Remote Sensing Data | [paper](https://arxiv.org/abs/2205.03147)| [code](https://github.com/YZHJessica/VQA-easy2hard) | 2022 | |
 | Language Transformers for Remote Sensing Visual Question Answering | [paper](https://ieeexplore.ieee.org/document/9884036) | | 2022 | IGARSS |
 | Bi-Modal Transformer-Based Approach for Visual Question Answering in Remote Sensing Imagery | [paper](https://ieeexplore.ieee.org/document/9832935) | | 2022 | IEEE | 
