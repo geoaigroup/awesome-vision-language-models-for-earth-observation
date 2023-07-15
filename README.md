@@ -70,7 +70,7 @@ This list is created by the GEOspatial Artificial Intelligence (GEOAI) research 
 
 You can contribute to this project through:
 
-1. **Pull Requests**: Submit your pull requests here.
+1. **Pull Requests**: Submit your pull requests [here](https://github.com/geoaigroup/awesome-vision-language-models-for-earth-observation/pulls)
 2. **Email**: Reach out to us at [gandour.ali@gmail.com](gandour.ali@gmail.com).
 
 
