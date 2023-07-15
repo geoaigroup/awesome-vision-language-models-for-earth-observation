@@ -11,22 +11,22 @@ A curated list of awesome visual language model papers and resources for remote 
 | Title | Paper | Code | Year | Venue |
 | ----------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- | ---- | ------------------- |
 | Multi-Source Interactive Stair Attention for Remote Sensing Image Captioning | [paper](https://www.mdpi.com/2072-4292/15/3/579) | | 2023 | MDPI Remote Sensing []()|
-| VLCA: vision-language aligning model with cross-modal attention for bilingual remote sensing image captioning | [paper](https://ieeexplore.ieee.org/document/10066217) | | 2023 | Journal of Systems Engineering and Electronics |[]()|
-| Towards Unsupervised Remote Sensing Image Captioning and Retrieval with Pre-Trained Language Models | [paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B10-4.pdf) | | 2023 | []()|
-| Captioning Remote Sensing Images Using Transformer Architecture | [paper](https://ieeexplore.ieee.org/document/10067039/) | | 2023 | ICAIIC |
-| A Mask-Guided Transformer Network with Topic Token for Remote Sensing Image Captioning | [paper](https://www.mdpi.com/2072-4292/14/12/2939) | | 2022 | Remote Sensing []()|
-| Multiscale Multiinteraction Network for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9720234) | | 2022  | IEEE[]()|
-| Using Neural Encoder-Decoder Models with Continuous Outputs for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9714367) | | 2022 | IEEE[]()|
-| A Joint-Training Two-Stage Method for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9961235) | | 2022 | IEEE []()|
-| Meta captioning: A meta learning based remote sensing image captioning framework | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271622000351) | [code](https://github.com/QiaoqiaoYang/MetaCaptioning.) | 2022 | ISPRS []()|
-| Exploring Transformer and Multilabel Classification for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9855519) | [code](https://gitlab.lrz.de/ai4eo/captioningMultilabel.) | 2022 | IEEE []()|
-| High-Resolution Remote Sensing Image Captioning Based on Structured Attention | [paper](https://ieeexplore.ieee.org/document/9400386) | | 2022 | IEEE |
-| Truncation Cross Entropy Loss for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9153154) | | 2021 | IEEE[]()|
-| Word-Sentence Framework for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9308980/?denied=) | | 2021 | IEEE |
-| Remote sensing image captioning via Variational Autoencoder and Reinforcement Learning | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120302586) | | 2020 | Knowledge-Based Systems []()|
-| A multi-level attention model for remote sensing image captions | [paper](https://www.mdpi.com/2072-4292/12/6/939) | | 2020 | Remote Sensing []()|
-| LAM: Remote sensing image captioning with Label-Attention Mechanism | [paper](https://www.mdpi.com/2072-4292/11/20/2349) | | 2019 | Remote Sensing []()|
-| Exploring Models and Data for Remote Sensing Image Caption Generation | [paper](https://arxiv.org/abs/1712.07835) | | 2017 |  []()|
+| VLCA: vision-language aligning model with cross-modal attention for bilingual remote sensing image captioning | [paper](https://ieeexplore.ieee.org/document/10066217) | | 2023 | IEEE Journal of Systems Engineering and Electronics |[]()|
+| Towards Unsupervised Remote Sensing Image Captioning and Retrieval with Pre-Trained Language Models | [paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B10-4.pdf) | | 2023 | Processingsof the Japanese Association for Natural Language Processing |[]()|
+| Captioning Remote Sensing Images Using Transformer Architecture | [paper](https://ieeexplore.ieee.org/document/10067039/) | | 2023 | International Conference on Artificial Intelligence in Information and Communication |
+| A Mask-Guided Transformer Network with Topic Token for Remote Sensing Image Captioning | [paper](https://www.mdpi.com/2072-4292/14/12/2939) | | 2022 | MDPI Remote Sensing []()|
+| Multiscale Multiinteraction Network for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9720234) | | 2022  | IEEE JSTARS []()|
+| Using Neural Encoder-Decoder Models with Continuous Outputs for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9714367) | | 2022 | IEEE Access []()|
+| A Joint-Training Two-Stage Method for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9961235) | | 2022 | IEEE TGRS []()|
+| Meta captioning: A meta learning based remote sensing image captioning framework | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271622000351) | [code](https://github.com/QiaoqiaoYang/MetaCaptioning.) | 2022 | Elsevier PHOTO []()|
+| Exploring Transformer and Multilabel Classification for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9855519) | [code](https://gitlab.lrz.de/ai4eo/captioningMultilabel.) | 2022 | IEEE GRSL []()|
+| High-Resolution Remote Sensing Image Captioning Based on Structured Attention | [paper](https://ieeexplore.ieee.org/document/9400386) | | 2022 | IEEE TGRS |
+| Truncation Cross Entropy Loss for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9153154) | | 2021 | IEEE TGRS []()|
+| Word-Sentence Framework for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9308980/?denied=) | | 2021 | IEEE TGRS |
+| Remote sensing image captioning via Variational Autoencoder and Reinforcement Learning | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120302586) | | 2020 | Elservier Knowledge-Based Systems []()|
+| A multi-level attention model for remote sensing image captions | [paper](https://www.mdpi.com/2072-4292/12/6/939) | | 2020 | MDPI Remote Sensing []()|
+| LAM: Remote sensing image captioning with Label-Attention Mechanism | [paper](https://www.mdpi.com/2072-4292/11/20/2349) | | 2019 | MDPI Remote Sensing []()|
+| Exploring Models and Data for Remote Sensing Image Caption Generation | [paper](https://arxiv.org/abs/1712.07835) | | 2017 | IEEE TGRS []()|
 
 
 
