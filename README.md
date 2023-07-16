@@ -1,5 +1,4 @@
-# awesome-VLM4EO: awesome-vision-language-models-for-earth-observation  
-A curated list of visual language model papers and resources for earth observation. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/geoaigroup/awesome-vision-language-models-for-earth-observation/)  
+# A curated list of Visual Language Models papers and resources for earth observation (VLM4EO). [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/geoaigroup/awesome-vision-language-models-for-earth-observation/)  
 
 This list is created and maintained by [Ali Koteich](https://geogroup.ai/author/ali-koteich/) and [Hasan Moughnieh](https://geogroup.ai/author/hasan-moughnieh/) from the GEOspatial Artificial Intelligence (GEOAI) research group at the National Center for Remote Sensing - CNRS, Lebanon.  
 
