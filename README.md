@@ -1,6 +1,9 @@
 # awesome-VLM4EO: awesome-vision-language-models-for-earth-observation  
 A curated list of visual language model papers and resources for earth observation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/geoaigroup/awesome-vision-language-models-for-earth-observation/).  
+
 This list is created and maintained by [Ali Koteich](https://geogroup.ai/author/ali-koteich/) and [Hasan Moughnieh](https://geogroup.ai/author/hasan-moughnieh/) from the GEOspatial Artificial Intelligence (GEOAI) research group at the National Center for Remote Sensing - CNRS, Lebanon.  
+
+We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md).  
 
 ---**If you find this repository useful, please consider giving it a ⭐**
 
@@ -65,13 +68,6 @@ This list is created and maintained by [Ali Koteich](https://geogroup.ai/author/
 | RSVQA meets BigEarthNet: a new, large-scale, visual question answering dataset for remote sensing | [paper](https://ieeexplore.ieee.org/document/9553307) | [code](https://github.com/syvlo/RSVQAxBEN) | 2021 | IEEE IGARSS |
 | RSVQA: Visual Question Answering for Remote Sensing Data | [paper](https://ieeexplore.ieee.org/abstract/document/9088993) | [code](https://github.com/syvlo/RSVQA) | 2020 | IEEE TGRS |
 | How to find a good image-text embedding for remote sensing visual question answering? | [paper](https://arxiv.org/abs/2109.11848) | | 2021 | CEUR Workshop Proceedings |
-
-## Contributing
-
-You can contribute to this project through:
-
-1. **Pull Requests**: Submit your pull requests [here](https://github.com/geoaigroup/awesome-vision-language-models-for-earth-observation/pulls)
-
 
 
 ---**Stay tuned for continuous updates and improvements! 🚀**
