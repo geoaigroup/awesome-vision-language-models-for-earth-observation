@@ -68,6 +68,13 @@ We encourage you to contribute to this project according to the following [guide
 | RSVQA: Visual Question Answering for Remote Sensing Data | [paper](https://ieeexplore.ieee.org/abstract/document/9088993) | [code](https://github.com/syvlo/RSVQA) | 2020 | IEEE TGRS |
 | How to find a good image-text embedding for remote sensing visual question answering? | [paper](https://arxiv.org/abs/2109.11848) | | 2021 | CEUR Workshop Proceedings |
 
+## Vision-Language Remote Sensing Datasets
+| Name | Link | Paper Link | Description |
+| --- | --- | --- | --- |
+| Remote Sensing Visual Question Answering Low Resolution Dataset(RSVQA LR)| [Link](https://zenodo.org/record/6344334) | [Paper Link](https://arxiv.org/abs/2003.07333) | Size: 772 images & 77,232 questions and answers <br>Resolution : 256 x 256 <br>Sets: 77.8% train , 11.1% validation , and 11.1% test set<br> Platforms: Sentinel-2 and Open Street Map<br>|
+| Remote Sensing Visual Question Answering High Resolution Dataset(RSVQA HR)| [Link](https://zenodo.org/record/6344367) | [Paper Link](https://arxiv.org/abs/2003.07333) | Size: 10,659 images & 955,664 questions and answers <br>Resolution : 512 x 512  <br>Sets: 61.5% train , 11.2% validation , and 6.8% test set<br> Platforms: USGS and Open Street Map<br>|
+| Remote Sensing Visual Question Answering with BigEarthNet Dataset (RSVQA x BEN)| [Link](https://zenodo.org/record/5084904) | [Paper Link](https://rsvqa.sylvainlobry.com/IGARSS21.pdf) | Size: 140,758,150 image/question/answer triplets <br>Resolution : High-resolution (15cm)  <br>Sets: 66% train , 11% validation , and 23% test set<br> Platforms: Sentinel-2, BigEarthNet and Open Street Map<br>|
+
 
 ---**Stay tuned for continuous updates and improvements! 🚀**
 
