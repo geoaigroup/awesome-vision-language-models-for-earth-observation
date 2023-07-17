@@ -74,6 +74,9 @@ We encourage you to contribute to this project according to the following [guide
 | Remote Sensing Visual Question Answering Low Resolution Dataset(RSVQA LR)| [Link](https://zenodo.org/record/6344334) | [Paper Link](https://arxiv.org/abs/2003.07333) | Size: 772 images & 77,232 questions and answers <br>Resolution : 256 x 256 <br>Sets: 77.8% train , 11.1% validation , and 11.1% test set<br> Platforms: Sentinel-2 and Open Street Map<br>|
 | Remote Sensing Visual Question Answering High Resolution Dataset(RSVQA HR)| [Link](https://zenodo.org/record/6344367) | [Paper Link](https://arxiv.org/abs/2003.07333) | Size: 10,659 images & 955,664 questions and answers <br>Resolution : 512 x 512  <br>Sets: 61.5% train , 11.2% validation , and 6.8% test set<br> Platforms: USGS and Open Street Map<br>|
 | Remote Sensing Visual Question Answering with BigEarthNet Dataset (RSVQA x BEN)| [Link](https://zenodo.org/record/5084904) | [Paper Link](https://rsvqa.sylvainlobry.com/IGARSS21.pdf) | Size: 140,758,150 image/question/answer triplets <br>Resolution : High-resolution (15cm)  <br>Sets: 66% train , 11% validation , and 23% test set<br> Platforms: Sentinel-2, BigEarthNet and Open Street Map<br>|
+| FloodNet Visual Question Answering Dataset| [Link](https://drive.google.com/drive/folders/1g1r419bWBe4GEF-7si5DqWCjxiC8ErnY?usp=sharing) | [Paper Link](https://arxiv.org/abs/2012.02951) | Size: 11,000 question-image pairs <br>Resolution :  224 x 224  <br> Platforms: UAV-DJI Mavic Pro quadcopters, after Hurricane Harvey<br>|
+
+
 
 
 ---**Stay tuned for continuous updates and improvements! 🚀**
