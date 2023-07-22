@@ -99,7 +99,7 @@ We encourage you to contribute to this project according to the following [guide
 | Potsdam dataset |[link](https://seafile.projekt.uni-hannover.de/f/429be50cc79d423ab6c4/) | [Paper Link](https://arxiv.org/pdf/2206.09731v2.pdf) | Size: 38 patches (of the same size), each consisting of a true orthophoto (TOP) extracted from a larger TOP mosaic <br>Number of Classes: same category information as the Vaihingen dataset<br>Resolution : 6000x6000 pixels and 5cm resolution <br> Platforms:  Google Maps and OSM (DGPF)<br> Use: Semantic Segmentation <br>|
 
 -->
-## Related Vision-Language Remote Sensing Awesome Repositories 
+## Related Repositories 
 - [awesome-remote-image-captioning](https://github.com/iOPENCap/awesome-remote-image-captioning)
 - [awesome-RSVLM](https://github.com/om-ai-lab/awesome-RSVLM)
  <!-- 
