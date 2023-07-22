@@ -46,6 +46,8 @@ We encourage you to contribute to this project according to the following [guide
 | Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval | [paper](https://ieeexplore.ieee.org/document/9437331) | | 2022 | IEEE TGRS |
 | Remote Sensing Cross-Modal Text-Image Retrieval Based on Global and Local Information | [paper](https://ieeexplore.ieee.org/document/9745546) | [code](https://github.com/xiaoyuan1996/GaLR) | 2022 | IEEE TGRS |
 | Multilanguage Transformer for Improved Text to Remote Sensing Image Retrieval | [paper](https://ieeexplore.ieee.org/document/9925582) | | 2022 | IEEE JSTARS |
+| CLIP-RS: A Cross-modal Remote Sensing Image Retrieval Based on CLIP, a Northern Virginia Case Study | [paper](https://vtechworks.lib.vt.edu/handle/10919/110853) |  | 2022 | Virginia Polytechnic Institute and State University |
+| Multilanguage Transformer for Improved Text to Remote Sensing Image Retrieval | [paper](https://ieeexplore.ieee.org/document/9925582) | | 2022 | IEEE JSTARS |
 | A Lightweight Multi-Scale Crossmodal Text-Image Retrieval Method in Remote Sensing | [paper](https://ieeexplore.ieee.org/document/9594840) | [code](https://github.com/xiaoyuan1996/retrievalSystem) | 2022 | IEEE TGRS |
 | Toward Remote Sensing Image Retrieval under a Deep Image Captioning Perspective | [paper](https://ieeexplore.ieee.org/document/9154525)  |  | 2020 | IEEE JSTARS|
 | TextRS: Deep bidirectional triplet network for matching text to remote sensing images | [paper](https://www.mdpi.com/2072-4292/12/3/405) |  | 2020 | MDPI Remote Sensing |
@@ -73,6 +75,7 @@ We encourage you to contribute to this project according to the following [guide
 ## Vision-Language Remote Sensing Datasets
 | Name | Link | Paper Link | Description |
 | --- | --- | --- | --- |
+| RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model| [Link](https://huggingface.co/datasets/Zilun/RS5M) | [Paper Link](https://arxiv.org/abs/2306.11300) | Size: 5 million remote sensing images with English descriptions <br>Resolution : 256 x 256 <br> Platforms:  11 publicly available image-text paired dataset<br>|
 | Remote Sensing Visual Question Answering Low Resolution Dataset(RSVQA LR)| [Link](https://zenodo.org/record/6344334) | [Paper Link](https://arxiv.org/abs/2003.07333) | Size: 772 images & 77,232 questions and answers <br>Resolution : 256 x 256 <br> Platforms: Sentinel-2 and Open Street Map<br>Use: Remote Sensing Visual Question Answering <br>|
 | Remote Sensing Visual Question Answering High Resolution Dataset(RSVQA HR)| [Link](https://zenodo.org/record/6344367) | [Paper Link](https://arxiv.org/abs/2003.07333) | Size: 10,659 images & 955,664 questions and answers <br>Resolution : 512 x 512  <br> Platforms: USGS and Open Street Map<br>Use: Remote Sensing Visual Question Answering <br>|
 | Remote Sensing Visual Question Answering BigEarthNet Dataset (RSVQA x BEN)| [Link](https://zenodo.org/record/5084904) | [Paper Link](https://rsvqa.sylvainlobry.com/IGARSS21.pdf) | Size: 140,758,150 image/question/answer triplets <br>Resolution : High-resolution (15cm)  <br> Platforms: Sentinel-2, BigEarthNet and Open Street Map<br>Use: Remote Sensing Visual Question Answering <br>|
