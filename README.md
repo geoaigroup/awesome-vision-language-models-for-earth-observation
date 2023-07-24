@@ -116,8 +116,9 @@ We encourage you to contribute to this project according to the following [guide
 
 -->
 ## Related Repositories 
-- [awesome-remote-image-captioning](https://github.com/iOPENCap/awesome-remote-image-captioning)
 - [awesome-RSVLM](https://github.com/om-ai-lab/awesome-RSVLM)
+- [awesome-remote-sensing-vision-language-models](https://github.com/lzw-lzw/awesome-remote-sensing-vision-language-models)
+- [awesome-remote-image-captioning](https://github.com/iOPENCap/awesome-remote-image-captioning)
  <!-- 
 - [awesome-satellite-imagery-datasets][https://github.com/chrieke/awesome-satellite-imagery-datasets]
 -->
