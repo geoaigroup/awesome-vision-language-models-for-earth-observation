@@ -11,8 +11,7 @@ We encourage you to contribute to this project according to the following [guide
 * [Text-Image Retrieval](#text-image-retrieval)
 * [Visual Grounding](#visual-grounding)
 * [Visual Question Answering](#visual-question-answering)
-* [Vision-Language Remote Sensing Datasets](#vision-language-remote-sensing-datasets)
-* [ Related Repositories ](#related-repositories)
+* [VL4EO Datasets](#vision-language-remote-sensing-datasets)
 
 ## Image Captioning
 | Title | Paper | Code | Year | Venue |
