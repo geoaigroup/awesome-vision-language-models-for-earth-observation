@@ -1,6 +1,6 @@
 # A curated list of Visual Language Models papers and resources for earth observation (VLM4EO) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/geoaigroup/awesome-vision-language-models-for-earth-observation/)  
 
-This list is created and maintained by [Ali Koteich](https://geogroup.ai/author/ali-koteich/) and [Hasan Moughnieh](https://geogroup.ai/author/hasan-moughnieh/) from the GEOspatial Artificial Intelligence (GEOAI) research group at the National Center for Remote Sensing - CNRS, Lebanon.  
+This list is created and maintained by [Ali Koteich](https://github.com/alikoteich) and [Hasan Moughnieh](https://geogroup.ai/author/hasan-moughnieh/) from the GEOspatial Artificial Intelligence (GEOAI) research group at the National Center for Remote Sensing - CNRS, Lebanon.  
 
 We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md).  
 
