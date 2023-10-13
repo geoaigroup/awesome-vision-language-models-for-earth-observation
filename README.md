@@ -69,6 +69,7 @@ We encourage you to contribute to this project according to the following [guide
 ## Visual Grounding
 | Title | Paper | Code | Year | Venue |
 | ----------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- | ---- | ------------------- |
+| LaLGA: Multi-Scale Language-Aware Visual Grounding on Remote Sensing Data |[paper](https://www.researchgate.net/publication/373146282_LaLGA_Multi-Scale_LanguageAware_Visual_Grounding_on_Remote_Sensing_Data)| [code](https://github.com/like413/OPT-RSVG) | 2023 | | 
 | Text2Seg: Remote Sensing Image Semantic Segmentation via Text-Guided Visual Foundation Models | [paper](https://arxiv.org/abs/2304.10597) | [code](https://github.com/Douglas2Code/Text2Seg) | 2023    | 
 | RSVG: Exploring Data and Models for Visual Grounding on Remote Sensing Data| [paper](https://arxiv.org/abs/2210.12634) | [code](https://github.com/ZhanYang-nwpu/RSVG-pytorch) |  2022| IEEE TGRS | 
 
