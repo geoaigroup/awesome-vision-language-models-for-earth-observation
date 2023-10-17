@@ -38,8 +38,10 @@ We encourage you to contribute to this project according to the following [guide
 | Transforming remote sensing images to textual descriptions | [paper](https://www.sciencedirect.com/science/article/pii/S0303243422000678) | | 2022 | Int J Appl Earth Obs Geoinf  |
 | A Joint-Training Two-Stage Method for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9961235/) | | 2022 |  	IEEE TGRS  |
 | A Novel SVM-Based Decoder for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9521989) | | 2021 | IEEE TGRS []()| 
+| SD-RSIC: Summarization Driven Deep Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9239371) | [code](https://git.tu-berlin.de/rsim/SD-RSIC) | 2021 | IEEE TGRS|
 | Truncation Cross Entropy Loss for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9153154) | | 2021 | IEEE TGRS []()|
 | Word-Sentence Framework for Remote Sensing Image Captioning | [paper](https://ieeexplore.ieee.org/document/9308980/?denied=) | | 2021 | IEEE TGRS |
+| Toward Remote Sensing Image Retrieval Under a Deep Image Captioning Perspective | [paper](https://ieeexplore.ieee.org/document/9154525) | | 2020 | IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing|
 | Remote sensing image captioning via Variational Autoencoder and Reinforcement Learning | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120302586) | | 2020 | Elservier Knowledge-Based Systems []()|
 | A multi-level attention model for remote sensing image captions | [paper](https://www.mdpi.com/2072-4292/12/6/939) | | 2020 | MDPI Remote Sensing []()|
 | LAM: Remote sensing image captioning with Label-Attention Mechanism | [paper](https://www.mdpi.com/2072-4292/11/20/2349) | | 2019 | MDPI Remote Sensing []()|
@@ -54,6 +56,8 @@ We encourage you to contribute to this project according to the following [guide
 | An End-to-End Framework Based on Vision-Language Fusion for Remote Sensing Cross-Modal Text-Image Retrieval | [paper](https://www.mdpi.com/2227-7390/11/10/2279) |  | 2023 | MDPI Mathematics |
 | Contrasting Dual Transformer Architectures for Multi-Modal Remote Sensing Image Retrieval | [paper](https://www.mdpi.com/2076-3417/13/1/282) | | 2023 | MDPI Applied Sciences|
 | Reducing Semantic Confusion: Scene-aware Aggregation Network for Remote Sensing Cross-modal Retrieval | [paper](https://dl.acm.org/doi/abs/10.1145/3591106.3592236) |[code](https://github.com/kinshingpoon/SWAN-pytorch) | 2023 | ICMR'23|
+| An Unsupervised Cross-Modal Hashing Method Robust to Noisy Training Image-Text Correspondences in Remote Sensing| [Paper](https://ieeexplore.ieee.org/document/9897500) | [code](https://git.tu-berlin.de/rsim/chnr) | 2022 | IEEE ICIP |
+| Unsupervised Contrastive Hashing for Cross-Modal Retrieval in Remote Sensing | [Paper](https://ieeexplore.ieee.org/document/9746251) | [code](https://git.tu-berlin.de/rsim/duch) | 2022 | IEEE ICASSP |
 | Multisource Data Reconstruction-Based Deep Unsupervised Hashing for Unisource Remote Sensing Image Retrieval| [Paper](https://ieeexplore.ieee.org/abstract/document/10001754) | [code](https://github.com/sunyuxi/MrHash) | 2022 | IEEE TGRS |
 | MCRN: A Multi-source Cross-modal Retrieval Network for remote sensing | [paper](https://www.sciencedirect.com/science/article/pii/S156984322200259X) |[code](https://github.com/xiaoyuan1996/MCRN) | 2022 | Int J Appl Earth Obs Geoinf|
 | Knowledge-Aware Cross-Modal Text-Image Retrieval for Remote Sensing Images|[paper](https://ceur-ws.org/Vol-3207/paper4.pdf)||2022||
@@ -76,8 +80,10 @@ We encourage you to contribute to this project according to the following [guide
 ## Visual Question Answering
 | Title | Paper | Code | Year | Venue |
 | ----------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- | ---- | ------------------- |
+| LIT-4-RSVQA: Lightweight Transformer-based Visual Question Answering in Remote Sensing | [paper](https://arxiv.org/abs/2306.00758) | [code](https://git.tu-berlin.de/rsim/lit4rsvqa) | 2023 | IEEE IGARSS |
 | A Spatial Hierarchical Reasoning Network for Remote Sensing Visual Question Answering | [paper](https://ieeexplore.ieee.org/document/10018408) | | 2023 | IEEE TGRS |
-| Change Detection Meets Visual Question Answering | [paper](https://ieeexplore.ieee.org/abstract/document/9901476) | [code](https://github.com/YZHJessica/CDVQA) | 2022 | IEEE TGRS []()|
+| Multi-Modal Fusion Transformer for Visual Question Answering in Remote Sensing | [paper](https://arxiv.org/abs/2210.04510) | [code](https://git.tu-berlin.de/rsim/multi-modal-fusion-transformer-for-vqa-in-rs) | 2022 | SPIE Image and Signal Processing for Remote Sensing |
+| Change Detection Meets Visual Question Answering | [paper](https://ieeexplore.ieee.org/abstract/document/9901476) | [code](https://github.com/YZHJessica/CDVQA) | 2022 | IEEE TGRS |
 | Prompt-RSVQA: Prompting visual context to a language model for Remote Sensing Visual Question Answering | [paper](https://ieeexplore.ieee.org/document/9857471) |  | 2022 | CVPRW |
 | From Easy to Hard: Learning Language-guided Curriculum for Visual Question Answering on Remote Sensing Data | [paper](https://ieeexplore.ieee.org/abstract/document/9771224)| [code](https://github.com/YZHJessica/VQA-easy2hard) | 2022 | IEEE TGRS |
 | Language Transformers for Remote Sensing Visual Question Answering | [paper](https://ieeexplore.ieee.org/document/9884036) | | 2022 | IEEE IGARSS |
