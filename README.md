@@ -12,6 +12,7 @@ We encourage you to contribute to this project according to the following [guide
 * [Visual Grounding](#visual-grounding)
 * [Visual Question Answering](#visual-question-answering)
 * [VL4EO Datasets](#vision-language-remote-sensing-datasets)
+* [Related Repos & Libraries](#related-repositories&-libraries)
 
 ## Image Captioning
 | Title | Paper | Code | Year | Venue |
@@ -124,7 +125,7 @@ We encourage you to contribute to this project according to the following [guide
 | Potsdam dataset |[link](https://seafile.projekt.uni-hannover.de/f/429be50cc79d423ab6c4/) | [Paper Link](https://arxiv.org/pdf/2206.09731v2.pdf) | Size: 38 patches (of the same size), each consisting of a true orthophoto (TOP) extracted from a larger TOP mosaic <br>Number of Classes: same category information as the Vaihingen dataset<br>Resolution : 6000x6000 pixels and 5cm resolution <br> Platforms:  Google Maps and OSM (DGPF)<br> Use: Semantic Segmentation <br>|
 -->
 
-## Related Repositories 
+## Related Repositories & Libraries
 - [awesome-RSVLM](https://github.com/om-ai-lab/awesome-RSVLM)
 - [awesome-remote-sensing-vision-language-models](https://github.com/lzw-lzw/awesome-remote-sensing-vision-language-models)
 - [awesome-remote-image-captioning](https://github.com/iOPENCap/awesome-remote-image-captioning)
