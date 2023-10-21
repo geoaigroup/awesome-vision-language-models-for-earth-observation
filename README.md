@@ -12,7 +12,7 @@ We encourage you to contribute to this project according to the following [guide
 * [Visual Grounding](#visual-grounding)
 * [Visual Question Answering](#visual-question-answering)
 * [VL4EO Datasets](#vision-language-remote-sensing-datasets)
-* [Related Repos & Libraries](#related-repositories&-libraries)
+* [Related Repos & Libraries](#related-repositories--libraries)
 
 ## Image Captioning
 | Title | Paper | Code | Year | Venue |
@@ -126,6 +126,7 @@ We encourage you to contribute to this project according to the following [guide
 -->
 
 ## Related Repositories & Libraries
+- [ConfigILM Library](https://github.com/lhackel-tub/ConfigILM)
 - [awesome-RSVLM](https://github.com/om-ai-lab/awesome-RSVLM)
 - [awesome-remote-sensing-vision-language-models](https://github.com/lzw-lzw/awesome-remote-sensing-vision-language-models)
 - [awesome-remote-image-captioning](https://github.com/iOPENCap/awesome-remote-image-captioning)
