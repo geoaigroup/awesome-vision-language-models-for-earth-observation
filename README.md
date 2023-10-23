@@ -52,6 +52,7 @@ We encourage you to contribute to this project according to the following [guide
 
 | Title | Paper | Code | Year | Venue |
 | ----------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- | ---- | ------------------- |
+| RemoteCLIP: A Vision Language Foundation Model for Remote Sensing | [paper](https://arxiv.org/abs/2306.11029) | [code](https://github.com/ChenDelong1999/RemoteCLIP) | 2023 | |
 | An End-to-End Framework Based on Vision-Language Fusion for Remote Sensing Cross-Modal Text-Image Retrieval | [paper](https://www.mdpi.com/2227-7390/11/10/2279) |  | 2023 | MDPI Mathematics |
 | Contrasting Dual Transformer Architectures for Multi-Modal Remote Sensing Image Retrieval | [paper](https://www.mdpi.com/2076-3417/13/1/282) | | 2023 | MDPI Applied Sciences|
 | Reducing Semantic Confusion: Scene-aware Aggregation Network for Remote Sensing Cross-modal Retrieval | [paper](https://dl.acm.org/doi/abs/10.1145/3591106.3592236) |[code](https://github.com/kinshingpoon/SWAN-pytorch) | 2023 | ICMR'23|
