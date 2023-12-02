@@ -7,12 +7,18 @@ We encourage you to contribute to this project according to the following [guide
 ---**If you find this repository useful, please consider giving it a ⭐**
 
 **Table Of Contents**
+* [Foundation Models](#foundation-models)
 * [Image Captioning](#image-captioning)
 * [Text-Image Retrieval](#text-image-retrieval)
 * [Visual Grounding](#visual-grounding)
 * [Visual Question Answering](#visual-question-answering)
 * [VL4EO Datasets](#vision-language-remote-sensing-datasets)
 * [Related Repos & Libraries](#related-repositories--libraries)
+
+## Foundation Models
+| Year | Title                                                                                                       | Paper                                                                                                        | Code                                                                      | Venue                                         |
+|------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------|
+| 2023 | GeoChat: Grounded Large Vision-Language Model for Remote Sensing                                             | [paper](https://arxiv.org/abs/2311.15826)                                                                   |   [code](https://github.com/mbzuai-oryx/geochat)                          |                                               |
 
 ## Image Captioning
 | Year | Title                                                                                                       | Paper                                                                                                        | Code                                                                      | Venue                                         |
