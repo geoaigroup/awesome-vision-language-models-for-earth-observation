@@ -7,13 +7,14 @@ We encourage you to contribute to this project according to the following [guide
 ---**If you find this repository useful, please consider giving it a ⭐**
 
 **Table Of Contents**
-* [Foundation Models](#foundation-models)
-* [Image Captioning](#image-captioning)
-* [Text-Image Retrieval](#text-image-retrieval)
-* [Visual Grounding](#visual-grounding)
-* [Visual Question Answering](#visual-question-answering)
-* [VL4EO Datasets](#vision-language-remote-sensing-datasets)
-* [Related Repos & Libraries](#related-repositories--libraries)
+- [A curated list of Visual Language Models papers and resources for Earth Observation (VLM4EO) ](#a-curated-list-of-visual-language-models-papers-and-resources-for-earth-observation-vlm4eo-)
+  - [Foundation Models](#foundation-models)
+  - [Image Captioning](#image-captioning)
+  - [Text-Image Retrieval](#text-image-retrieval)
+  - [Visual Grounding](#visual-grounding)
+  - [Visual Question Answering](#visual-question-answering)
+  - [Vision-Language Remote Sensing Datasets](#vision-language-remote-sensing-datasets)
+  - [Related Repositories \& Libraries](#related-repositories--libraries)
 
 ## Foundation Models
 | Year | Title                                                                                                       | Paper                                                                                                        | Code                                                                      | Venue                                         |
@@ -60,6 +61,10 @@ We encourage you to contribute to this project according to the following [guide
 
 | Year | Title                                                                                                        | Paper                                                                                                        | Code                                                                      | Venue                                         |
 |------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------|
+| 2023 | A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval | [paper](https://dl.acm.org/doi/10.1145/3581783.3612374)                                                           |    [code](https://github.com/Zjut-MultimediaPlus/PIR-pytorch)                                                    | ACM MM 2023 (Oral)                             |
+| 2023 |A Fusion Encoder with Multi-Task Guidance for Cross-Modal Text–Image Retrieval in Remote Sensing | [paper](https://www.mdpi.com/2072-4292/15/18/4637)                                                           |                                                      | MDPI Remote Sensing                            |
+| 2023 |Parameter-Efficient Transfer Learning for Remote Sensing Image-Text Retrieval | [paper](https://ieeexplore.ieee.org/document/10231134)                                                           |                                                      | IEEE TGRS                           |
+| 2023 |Hypersphere-Based Remote Sensing Cross-Modal Text–Image Retrieval via Curriculum Learning | [paper](https://ieeexplore.ieee.org/document/10261223)                                                           |       [code](https://github.com/ZhangWeihang99/HVSA)      | IEEE TGRS                           |
 | 2023 | An End-to-End Framework Based on Vision-Language Fusion for Remote Sensing Cross-Modal Text-Image Retrieval | [paper](https://www.mdpi.com/2227-7390/11/10/2279)                                                           |                                                                           | MDPI Mathematics                             |
 | 2023 | Contrasting Dual Transformer Architectures for Multi-Modal Remote Sensing Image Retrieval                   | [paper](https://www.mdpi.com/2076-3417/13/1/282)                                                             |                                                                           | MDPI Applied Sciences                        |
 | 2023 | Reducing Semantic Confusion: Scene-aware Aggregation Network for Remote Sensing Cross-modal Retrieval       | [paper](https://dl.acm.org/doi/abs/10.1145/3591106.3592236)                                                  | [code](https://github.com/kinshingpoon/SWAN-pytorch)                     | ICMR'23                                      |
