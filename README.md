@@ -7,18 +7,20 @@ We encourage you to contribute to this project according to the following [guide
 ---**If you find this repository useful, please consider giving it a ⭐**
 
 **Table Of Contents**
-* [Foundation Models](#foundation-models)
-* [Image Captioning](#image-captioning)
-* [Text-Image Retrieval](#text-image-retrieval)
-* [Visual Grounding](#visual-grounding)
-* [Visual Question Answering](#visual-question-answering)
-* [VL4EO Datasets](#vision-language-remote-sensing-datasets)
-* [Related Repos & Libraries](#related-repositories--libraries)
+- [A curated list of Visual Language Models papers and resources for Earth Observation (VLM4EO) ](#a-curated-list-of-visual-language-models-papers-and-resources-for-earth-observation-vlm4eo-)
+  - [Foundation Models](#foundation-models)
+  - [Image Captioning](#image-captioning)
+  - [Text-Image Retrieval](#text-image-retrieval)
+  - [Visual Grounding](#visual-grounding)
+  - [Visual Question Answering](#visual-question-answering)
+  - [Vision-Language Remote Sensing Datasets](#vision-language-remote-sensing-datasets)
+  - [Related Repositories \& Libraries](#related-repositories--libraries)
 
 ## Foundation Models
 | Year | Title                                                                                                       | Paper                                                                                                        | Code                                                                      | Venue                                         |
 |------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------|
 | 2023 | GeoChat: Grounded Large Vision-Language Model for Remote Sensing                                             | [paper](https://arxiv.org/abs/2311.15826)                                                                   |   [code](https://github.com/mbzuai-oryx/geochat)                          |                                               |
+| 2023 | Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment  | [paper](https://export.arxiv.org/abs/2312.06960)                                                                   |                |                                               |
 
 ## Image Captioning
 | Year | Title                                                                                                       | Paper                                                                                                        | Code                                                                      | Venue                                         |
@@ -60,6 +62,10 @@ We encourage you to contribute to this project according to the following [guide
 
 | Year | Title                                                                                                        | Paper                                                                                                        | Code                                                                      | Venue                                         |
 |------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------|
+| 2023 | A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval | [paper](https://dl.acm.org/doi/10.1145/3581783.3612374)                                                           |    [code](https://github.com/Zjut-MultimediaPlus/PIR-pytorch)                                                    | ACM MM 2023 (Oral)                             |
+| 2023 |A Fusion Encoder with Multi-Task Guidance for Cross-Modal Text–Image Retrieval in Remote Sensing | [paper](https://www.mdpi.com/2072-4292/15/18/4637)                                                           |                                                      | MDPI Remote Sensing                            |
+| 2023 |Parameter-Efficient Transfer Learning for Remote Sensing Image-Text Retrieval | [paper](https://ieeexplore.ieee.org/document/10231134)                                                           |                                                      | IEEE TGRS                           |
+| 2023 |Hypersphere-Based Remote Sensing Cross-Modal Text–Image Retrieval via Curriculum Learning | [paper](https://ieeexplore.ieee.org/document/10261223)                                                           |       [code](https://github.com/ZhangWeihang99/HVSA)      | IEEE TGRS                           |
 | 2023 | An End-to-End Framework Based on Vision-Language Fusion for Remote Sensing Cross-Modal Text-Image Retrieval | [paper](https://www.mdpi.com/2227-7390/11/10/2279)                                                           |                                                                           | MDPI Mathematics                             |
 | 2023 | Contrasting Dual Transformer Architectures for Multi-Modal Remote Sensing Image Retrieval                   | [paper](https://www.mdpi.com/2076-3417/13/1/282)                                                             |                                                                           | MDPI Applied Sciences                        |
 | 2023 | Reducing Semantic Confusion: Scene-aware Aggregation Network for Remote Sensing Cross-modal Retrieval       | [paper](https://dl.acm.org/doi/abs/10.1145/3591106.3592236)                                                  | [code](https://github.com/kinshingpoon/SWAN-pytorch)                     | ICMR'23                                      |
@@ -84,12 +90,14 @@ We encourage you to contribute to this project according to the following [guide
 |------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|----------|
 | 2023 | LaLGA: Multi-Scale Language-Aware Visual Grounding on Remote Sensing Data               | [paper](https://www.researchgate.net/publication/373146282_LaLGA_Multi-Scale_LanguageAware_Visual_Grounding_on_Remote_Sensing_Data) | [code](https://github.com/like413/OPT-RSVG)           |          |
 | 2023 | Text2Seg: Remote Sensing Image Semantic Segmentation via Text-Guided Visual Foundation Models | [paper](https://arxiv.org/abs/2304.10597)                                                                       | [code](https://github.com/Douglas2Code/Text2Seg)      |          |
+| 2022 | Visual Grounding in Remote Sensing Images | [paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548316)                                                                       | [dataset](https://sunyuxi.github.io/publication/GeoVG)      |  ACM MM   |
 | 2022 | RSVG: Exploring Data and Models for Visual Grounding on Remote Sensing Data             | [paper](https://arxiv.org/abs/2210.12634)                                                                       | [code](https://github.com/ZhanYang-nwpu/RSVG-pytorch) | IEEE TGRS |
 
 
 ## Visual Question Answering
 | Year | Title                                                                                                       | Paper                                                                                                  | Code                                                                                             | Venue                                                |
 |------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| 2023 | EarthVQA: Towards Queryable Earth via Relational Reasoning-Based Remote Sensing Visual Question Answering   | [paper](https://arxiv.org/pdf/2312.12222.pdf)                                                 |    [code](https://junjue-wang.github.io/homepage/EarthVQA)      | AAAI 2024 |
 | 2023 | A Spatial Hierarchical Reasoning Network for Remote Sensing Visual Question Answering                      | [paper](https://ieeexplore.ieee.org/document/10018408)                                                 |                                                                                                  | IEEE TGRS                                            |
 | 2023 | LIT-4-RSVQA: Lightweight Transformer-based Visual Question Answering in Remote Sensing                     | [paper](https://arxiv.org/abs/2306.00758)                                                              | [code](https://git.tu-berlin.de/rsim/lit4rsvqa)                                                  | IEEE IGARSS                                          |
 | 2023 | RSGPT: A Remote Sensing Vision Language Model and Benchmark                                                 | [paper](https://arxiv.org/abs/2307.15266)                                                                    | [code](https://github.com/Lavender105/RSGPT)                              |                                               |
